@@ -45,7 +45,7 @@ export default function Hero() {
       </div>
       </div>
       <div className="">
-        <Image src={mockup} alt="Inventory App" />
+        <Image width="auto" height="auto" src={mockup} alt="Inventory App" />
       </div>
     </div>
   );
